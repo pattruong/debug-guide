@@ -74,7 +74,7 @@ You can confirm the data type by using `console.log` or using a function with th
 # Examples
 
 
-Example 1: `undefined` variable
+### Example 1: `undefined` variable
 
 ```javascript
 // Why does this give an error?
@@ -114,7 +114,7 @@ What's wrong with this code?
 * This would still be a ***syntax*** error, because the author forgot to type in something. 
 
 ---
-## Example 3: Treating my variables as the wrong data type
+### Example 3: Treating my variables as the wrong data type
 ```javascript
 var obj = [{ 
     name: 'patrick',
