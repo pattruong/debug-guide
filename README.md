@@ -1,5 +1,5 @@
 # Table of Content
-* [Open a Ticket](#open-a-**ticket**)
+* [Open a Ticket](#open-a-ticket)
 * [Shortcut](#shortcut) (Go here for quick help)
 * [Thoughts on Learning](#thoughts-on-learning)
 * [Big Note for Beginners](#big-note-for-beginners)
