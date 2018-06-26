@@ -1,3 +1,11 @@
+# Table of Content
+* [Open a Ticket](#open-a-**ticket**)
+* [Shortcut](#shortcut) (Go here for quick help)
+* [Thoughts on Learning](#thoughts-on-learning)
+* [Big Note for Beginners](#big-note-for-beginners)
+* [Process](#process) (Go here if quick help was not enough to solve your bug)
+* [Examples](#examples) (Section will be continually updated with bugs from students)
+
 # Open a Ticket
 Ask yourself these questions, and prepare an answer for each of them before asking for help.
 
@@ -38,8 +46,14 @@ What we will most want to help on, and what you will most want our help on, are 
 always give an error, and that is why these are the most challenging for all programmers.
 
 
-# Process 
+# Big Note for Beginners
+Have a belief about all of your variables. You should know (write it down if you're unsure) what your variables are most of the time.
+Data type is essential, you should never guess what data type your variables are and continue coding a long time without confirming what they are. 
 
+You can confirm the data type by using `console.log` or using a function with the variable without erroring.
+
+
+# Process 
 
 | More Thorough Debugging Tips       | 
 | :------------- |
@@ -53,12 +67,6 @@ always give an error, and that is why these are the most challenging for all pro
 | Understand the question prompt, read it aloud and stop where it doesn't make sense. |
 | Read your error codes, does it point you to a place in your file? After looking through all of them is there any part of it that makes sense? (recognizable files) |
 
-
-# Big Note for Beginners
-Have a belief about all of your variables. You should know (write it down if you're unsure) what your variables are most of the time.
-Data type is essential, you should never guess what data type your variables are and continue coding a long time without confirming what they are. 
-
-You can confirm the data type by using `console.log` or using a function with the variable without erroring.
 
 
 ---
